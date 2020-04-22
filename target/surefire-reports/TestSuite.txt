@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 131.397 s <<< FAILURE! - in TestSuite
+verifyUserIsAbleToNavigateToRegisterPage(co.uk.barclays.testsuite.RegistrationPageTest)  Time elapsed: 0.019 s  <<< FAILURE!
+java.lang.NullPointerException
+	at co.uk.barclays.testsuite.RegistrationPageTest.verifyUserIsAbleToNavigateToRegisterPage(RegistrationPageTest.java:17)
+

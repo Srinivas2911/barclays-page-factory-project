@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Barclays Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="36.539">
+  <properties />
+  
+  
+            <testcase name="verifyThatUserisAbleToNavigatetoLoginInPage" time="12.374" classname="co.uk.barclays.testsuite.LoginPageTest" />
+                <testcase name="verifyThatUserisAbleToNavigatetoRegisterPageThruLoginInPage" time="24.165" classname="co.uk.barclays.testsuite.LoginPageTest" />
+      
+</testsuite>

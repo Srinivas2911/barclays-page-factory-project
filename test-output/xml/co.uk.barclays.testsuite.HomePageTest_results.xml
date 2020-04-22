@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Barclays Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.697">
+  <properties />
+  
+  
+            <testcase name="verifyThatLoginLinkDisplayedOnHomepage" time="0.335" classname="co.uk.barclays.testsuite.HomePageTest" />
+                <testcase name="verifyThatRegisterLinkIsDisplayedOnHomepage" time="0.362" classname="co.uk.barclays.testsuite.HomePageTest" />
+      
+</testsuite>

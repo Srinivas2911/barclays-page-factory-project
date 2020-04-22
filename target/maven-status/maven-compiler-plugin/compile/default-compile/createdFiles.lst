@@ -1,0 +1,8 @@
+co\uk\barclays\pages\RegisterPage.class
+co\uk\barclays\browserselector\BrowserSelector.class
+co\uk\barclays\pages\LoginPage.class
+co\uk\barclays\basepage\BasePage.class
+co\uk\barclays\pages\HomePage.class
+co\uk\barclays\utility\Utility.class
+co\uk\barclays\App.class
+co\uk\barclays\loadproperty\LoadProperty.class

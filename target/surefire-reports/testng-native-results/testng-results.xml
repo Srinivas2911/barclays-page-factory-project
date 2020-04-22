@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="5" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching Chrome Browser]]>
+    </line>
+    <line>
+      <![CDATA[Displaying Login  Link [[ChromeDriver: chrome on WINDOWS (e0fb5e40b6a1b51590a3f396ed01bc32)] -> link text: Log In]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Displaying Login  Link [[ChromeDriver: chrome on WINDOWS (e0fb5e40b6a1b51590a3f396ed01bc32)] -> link text: Log In]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Launching Chrome Browser]]>
+    </line>
+    <line>
+      <![CDATA[Displaying Register  Link [[ChromeDriver: chrome on WINDOWS (a1377e8787635063db6afb9f2a3d1e98)] -> link text: Register]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Displaying Register  Link [[ChromeDriver: chrome on WINDOWS (a1377e8787635063db6afb9f2a3d1e98)] -> link text: Register]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Launching Chrome Browser]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Login Link [[ChromeDriver: chrome on WINDOWS (85c3bccf0945e0b29da2ac1655d963af)] -> link text: Log In]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Displaying Login Page Text [[ChromeDriver: chrome on WINDOWS (85c3bccf0945e0b29da2ac1655d963af)] -> xpath: //strong[contains(text(),'Quick, safe and convenient')]]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Displaying Login Page Text [[ChromeDriver: chrome on WINDOWS (85c3bccf0945e0b29da2ac1655d963af)] -> xpath: //strong[contains(text(),'Quick, safe and convenient')]]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Launching Chrome Browser]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Login Link [[ChromeDriver: chrome on WINDOWS (63ccf7ef6941f189efa69f4b3b59e1bd)] -> link text: Log In]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Register Link  [[ChromeDriver: chrome on WINDOWS (63ccf7ef6941f189efa69f4b3b59e1bd)] -> link text: Register now]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Displaying Register Page Text [[ChromeDriver: chrome on WINDOWS (63ccf7ef6941f189efa69f4b3b59e1bd)] -> xpath: //h2[@class='h2 jumbo-title']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Displaying Register Page Text [[ChromeDriver: chrome on WINDOWS (63ccf7ef6941f189efa69f4b3b59e1bd)] -> xpath: //h2[@class='h2 jumbo-title']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Launching Chrome Browser]]>
+    </line>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="129331" started-at="2020-04-19T15:45:30 BST" finished-at="2020-04-19T15:47:39 BST">
+    <groups>
+      <group name="regression">
+        <method signature="HomePageTest.verifyThatRegisterLinkIsDisplayedOnHomepage()[pri:1, instance:co.uk.barclays.testsuite.HomePageTest@63440df3]" name="verifyThatRegisterLinkIsDisplayedOnHomepage" class="co.uk.barclays.testsuite.HomePageTest"/>
+        <method signature="LoginPageTest.verifyThatUserisAbleToNavigatetoRegisterPageThruLoginInPage()[pri:1, instance:co.uk.barclays.testsuite.LoginPageTest@3aeaafa6]" name="verifyThatUserisAbleToNavigatetoRegisterPageThruLoginInPage" class="co.uk.barclays.testsuite.LoginPageTest"/>
+        <method signature="RegistrationPageTest.verifyUserIsAbleToNavigateToRegisterPage()[pri:0, instance:co.uk.barclays.testsuite.RegistrationPageTest@76a3e297]" name="verifyUserIsAbleToNavigateToRegisterPage" class="co.uk.barclays.testsuite.RegistrationPageTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="HomePageTest.verifyThatLoginLinkDisplayedOnHomepage()[pri:0, instance:co.uk.barclays.testsuite.HomePageTest@63440df3]" name="verifyThatLoginLinkDisplayedOnHomepage" class="co.uk.barclays.testsuite.HomePageTest"/>
+        <method signature="LoginPageTest.verifyThatUserisAbleToNavigatetoLoginInPage()[pri:0, instance:co.uk.barclays.testsuite.LoginPageTest@3aeaafa6]" name="verifyThatUserisAbleToNavigatetoLoginInPage" class="co.uk.barclays.testsuite.LoginPageTest"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="HomePageTest.verifyThatLoginLinkDisplayedOnHomepage()[pri:0, instance:co.uk.barclays.testsuite.HomePageTest@63440df3]" name="verifyThatLoginLinkDisplayedOnHomepage" class="co.uk.barclays.testsuite.HomePageTest"/>
+        <method signature="HomePageTest.verifyThatRegisterLinkIsDisplayedOnHomepage()[pri:1, instance:co.uk.barclays.testsuite.HomePageTest@63440df3]" name="verifyThatRegisterLinkIsDisplayedOnHomepage" class="co.uk.barclays.testsuite.HomePageTest"/>
+        <method signature="LoginPageTest.verifyThatUserisAbleToNavigatetoLoginInPage()[pri:0, instance:co.uk.barclays.testsuite.LoginPageTest@3aeaafa6]" name="verifyThatUserisAbleToNavigatetoLoginInPage" class="co.uk.barclays.testsuite.LoginPageTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Surefire test" duration-ms="129331" started-at="2020-04-19T15:45:30 BST" finished-at="2020-04-19T15:47:39 BST">
+      <class name="co.uk.barclays.testsuite.RegistrationPageTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:co.uk.barclays.testsuite.RegistrationPageTest@76a3e297]" name="openBrowser" is-config="true" duration-ms="14780" started-at="2020-04-19T15:47:23 BST" finished-at="2020-04-19T15:47:38 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Chrome Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="FAIL" signature="verifyUserIsAbleToNavigateToRegisterPage()[pri:0, instance:co.uk.barclays.testsuite.RegistrationPageTest@76a3e297]" name="verifyUserIsAbleToNavigateToRegisterPage" duration-ms="1" started-at="2020-04-19T15:47:38 BST" finished-at="2020-04-19T15:47:38 BST">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy8.toString(Unknown Source)
+at co.uk.barclays.pages.HomePage.clickOnRegisterLink(HomePage.java:69)
+at co.uk.barclays.testsuite.RegistrationPageTest.verifyUserIsAbleToNavigateToRegisterPage(RegistrationPageTest.java:17)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1249)
+at org.testng.TestRunner.privateRun(TestRunner.java:766)
+at org.testng.TestRunner.run(TestRunner.java:587)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+at org.testng.TestNG.runSuites(TestNG.java:1039)
+at org.testng.TestNG.run(TestNG.java:1007)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:135)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:193)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:94)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:146)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserIsAbleToNavigateToRegisterPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:co.uk.barclays.testsuite.RegistrationPageTest@76a3e297]" name="tearDown" is-config="true" duration-ms="1249" started-at="2020-04-19T15:47:38 BST" finished-at="2020-04-19T15:47:39 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- co.uk.barclays.testsuite.RegistrationPageTest -->
+      <class name="co.uk.barclays.testsuite.HomePageTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:co.uk.barclays.testsuite.HomePageTest@63440df3]" name="openBrowser" is-config="true" duration-ms="18729" started-at="2020-04-19T15:45:30 BST" finished-at="2020-04-19T15:45:48 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Chrome Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:co.uk.barclays.testsuite.HomePageTest@63440df3]" name="setUpMethod" is-config="true" duration-ms="9" started-at="2020-04-19T15:45:48 BST" finished-at="2020-04-19T15:45:48 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="verifyThatLoginLinkDisplayedOnHomepage()[pri:0, instance:co.uk.barclays.testsuite.HomePageTest@63440df3]" name="verifyThatLoginLinkDisplayedOnHomepage" duration-ms="348" started-at="2020-04-19T15:45:48 BST" finished-at="2020-04-19T15:45:49 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Displaying Login  Link [[ChromeDriver: chrome on WINDOWS (e0fb5e40b6a1b51590a3f396ed01bc32)] -> link text: Log In]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Displaying Login  Link [[ChromeDriver: chrome on WINDOWS (e0fb5e40b6a1b51590a3f396ed01bc32)] -> link text: Log In]<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyThatLoginLinkDisplayedOnHomepage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:co.uk.barclays.testsuite.HomePageTest@63440df3]" name="tearDown" is-config="true" duration-ms="1263" started-at="2020-04-19T15:45:49 BST" finished-at="2020-04-19T15:45:50 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:co.uk.barclays.testsuite.HomePageTest@63440df3]" name="openBrowser" is-config="true" duration-ms="16961" started-at="2020-04-19T15:45:50 BST" finished-at="2020-04-19T15:46:07 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Chrome Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:co.uk.barclays.testsuite.HomePageTest@63440df3]" name="setUpMethod" is-config="true" duration-ms="4" started-at="2020-04-19T15:46:07 BST" finished-at="2020-04-19T15:46:07 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="verifyThatRegisterLinkIsDisplayedOnHomepage()[pri:1, instance:co.uk.barclays.testsuite.HomePageTest@63440df3]" name="verifyThatRegisterLinkIsDisplayedOnHomepage" duration-ms="375" started-at="2020-04-19T15:46:07 BST" finished-at="2020-04-19T15:46:07 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Displaying Register  Link [[ChromeDriver: chrome on WINDOWS (a1377e8787635063db6afb9f2a3d1e98)] -> link text: Register]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Displaying Register  Link [[ChromeDriver: chrome on WINDOWS (a1377e8787635063db6afb9f2a3d1e98)] -> link text: Register]<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyThatRegisterLinkIsDisplayedOnHomepage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:co.uk.barclays.testsuite.HomePageTest@63440df3]" name="tearDown" is-config="true" duration-ms="1819" started-at="2020-04-19T15:46:07 BST" finished-at="2020-04-19T15:46:09 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- co.uk.barclays.testsuite.HomePageTest -->
+      <class name="co.uk.barclays.testsuite.LoginPageTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:co.uk.barclays.testsuite.LoginPageTest@3aeaafa6]" name="openBrowser" is-config="true" duration-ms="16650" started-at="2020-04-19T15:46:09 BST" finished-at="2020-04-19T15:46:26 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Chrome Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:co.uk.barclays.testsuite.LoginPageTest@3aeaafa6]" name="setUpMethod" is-config="true" duration-ms="18" started-at="2020-04-19T15:46:26 BST" finished-at="2020-04-19T15:46:26 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="verifyThatUserisAbleToNavigatetoLoginInPage()[pri:0, instance:co.uk.barclays.testsuite.LoginPageTest@3aeaafa6]" name="verifyThatUserisAbleToNavigatetoLoginInPage" duration-ms="16394" started-at="2020-04-19T15:46:26 BST" finished-at="2020-04-19T15:46:42 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Login Link [[ChromeDriver: chrome on WINDOWS (85c3bccf0945e0b29da2ac1655d963af)] -> link text: Log In]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Displaying Login Page Text [[ChromeDriver: chrome on WINDOWS (85c3bccf0945e0b29da2ac1655d963af)] -> xpath: //strong[contains(text(),'Quick, safe and convenient')]]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Displaying Login Page Text [[ChromeDriver: chrome on WINDOWS (85c3bccf0945e0b29da2ac1655d963af)] -> xpath: //strong[contains(text(),'Quick, safe and convenient')]]<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyThatUserisAbleToNavigatetoLoginInPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:co.uk.barclays.testsuite.LoginPageTest@3aeaafa6]" name="tearDown" is-config="true" duration-ms="1176" started-at="2020-04-19T15:46:42 BST" finished-at="2020-04-19T15:46:43 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:co.uk.barclays.testsuite.LoginPageTest@3aeaafa6]" name="openBrowser" is-config="true" duration-ms="15193" started-at="2020-04-19T15:46:43 BST" finished-at="2020-04-19T15:46:59 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Chrome Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:co.uk.barclays.testsuite.LoginPageTest@3aeaafa6]" name="setUpMethod" is-config="true" duration-ms="15" started-at="2020-04-19T15:46:59 BST" finished-at="2020-04-19T15:46:59 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="verifyThatUserisAbleToNavigatetoRegisterPageThruLoginInPage()[pri:1, instance:co.uk.barclays.testsuite.LoginPageTest@3aeaafa6]" name="verifyThatUserisAbleToNavigatetoRegisterPageThruLoginInPage" duration-ms="22800" started-at="2020-04-19T15:46:59 BST" finished-at="2020-04-19T15:47:21 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Login Link [[ChromeDriver: chrome on WINDOWS (63ccf7ef6941f189efa69f4b3b59e1bd)] -> link text: Log In]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Register Link  [[ChromeDriver: chrome on WINDOWS (63ccf7ef6941f189efa69f4b3b59e1bd)] -> link text: Register now]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Displaying Register Page Text [[ChromeDriver: chrome on WINDOWS (63ccf7ef6941f189efa69f4b3b59e1bd)] -> xpath: //h2[@class='h2 jumbo-title']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Displaying Register Page Text [[ChromeDriver: chrome on WINDOWS (63ccf7ef6941f189efa69f4b3b59e1bd)] -> xpath: //h2[@class='h2 jumbo-title']]<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyThatUserisAbleToNavigatetoRegisterPageThruLoginInPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:co.uk.barclays.testsuite.LoginPageTest@3aeaafa6]" name="tearDown" is-config="true" duration-ms="1438" started-at="2020-04-19T15:47:21 BST" finished-at="2020-04-19T15:47:23 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- co.uk.barclays.testsuite.LoginPageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

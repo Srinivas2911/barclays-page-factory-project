@@ -1,0 +1,67 @@
+2020-04-19 15:04:734 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 15:04:162 INFO  HomePage :36 - Displaying Login Link : [[ChromeDriver: chrome on WINDOWS (5e93b49688c2ed464a19fcaac909d2d7)] -> link text: Log In]
+2020-04-19 15:04:259 INFO  HomePage :42 - Displaying Login Link : [[ChromeDriver: chrome on WINDOWS (5e93b49688c2ed464a19fcaac909d2d7)] -> link text: Log In]
+2020-04-19 15:04:322 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 15:04:15 INFO  HomePage :50 - Displaying Register link : [[ChromeDriver: chrome on WINDOWS (789157f0f814dd6ed941a5f1fefeded8)] -> link text: Register]
+2020-04-19 15:04:73 INFO  HomePage :56 - Displaying Register link : [[ChromeDriver: chrome on WINDOWS (789157f0f814dd6ed941a5f1fefeded8)] -> link text: Register]
+2020-04-19 15:04:220 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 15:04:185 INFO  HomePage :36 - Displaying Login Link : [[ChromeDriver: chrome on WINDOWS (e0fb5e40b6a1b51590a3f396ed01bc32)] -> link text: Log In]
+2020-04-19 15:04:240 INFO  HomePage :42 - Displaying Login Link : [[ChromeDriver: chrome on WINDOWS (e0fb5e40b6a1b51590a3f396ed01bc32)] -> link text: Log In]
+2020-04-19 15:04:560 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 15:04:762 INFO  HomePage :50 - Displaying Register link : [[ChromeDriver: chrome on WINDOWS (a1377e8787635063db6afb9f2a3d1e98)] -> link text: Register]
+2020-04-19 15:04:833 INFO  HomePage :56 - Displaying Register link : [[ChromeDriver: chrome on WINDOWS (a1377e8787635063db6afb9f2a3d1e98)] -> link text: Register]
+2020-04-19 15:04:720 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 15:04:666 INFO  HomePage :64 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-19 15:04:732 INFO  LoginPage :31 - Displaying Login Page Text : [[ChromeDriver: chrome on WINDOWS (85c3bccf0945e0b29da2ac1655d963af)] -> xpath: //strong[contains(text(),'Quick, safe and convenient')]]
+2020-04-19 15:04:759 INFO  LoginPage :36 - Displaying Login Page Text : [[ChromeDriver: chrome on WINDOWS (85c3bccf0945e0b29da2ac1655d963af)] -> xpath: //strong[contains(text(),'Quick, safe and convenient')]]
+2020-04-19 15:04:960 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 15:04:877 INFO  HomePage :64 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-19 15:04:828 INFO  LoginPage :43 - Clicking on Register Link : Proxy element for: DefaultElementLocator 'By.linkText: Register now'
+2020-04-19 15:04:907 INFO  RegisterPage :27 - Displaying Register Page Text : [[ChromeDriver: chrome on WINDOWS (63ccf7ef6941f189efa69f4b3b59e1bd)] -> xpath: //h2[@class='h2 jumbo-title']]
+2020-04-19 15:04:938 INFO  RegisterPage :33 - Displaying Register Page Text : [[ChromeDriver: chrome on WINDOWS (63ccf7ef6941f189efa69f4b3b59e1bd)] -> xpath: //h2[@class='h2 jumbo-title']]
+2020-04-19 15:04:407 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 15:04:731 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 15:04:160 INFO  HomePage :36 - Displaying Login Link : [[ChromeDriver: chrome on WINDOWS (7608a554b06099ff0dec886179fb3263)] -> link text: Log In]
+2020-04-19 15:04:206 INFO  HomePage :42 - Displaying Login Link : [[ChromeDriver: chrome on WINDOWS (7608a554b06099ff0dec886179fb3263)] -> link text: Log In]
+2020-04-19 15:04:05 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 15:04:116 INFO  HomePage :50 - Displaying Register link : [[ChromeDriver: chrome on WINDOWS (0d67ec9d6317949ff8877afa69f7c525)] -> link text: Register]
+2020-04-19 15:04:187 INFO  HomePage :56 - Displaying Register link : [[ChromeDriver: chrome on WINDOWS (0d67ec9d6317949ff8877afa69f7c525)] -> link text: Register]
+2020-04-19 15:04:94 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 15:04:950 INFO  HomePage :64 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-19 15:04:13 INFO  LoginPage :31 - Displaying Login Page Text : [[ChromeDriver: chrome on WINDOWS (8178d5c794d6643a5892bea8fea2d248)] -> xpath: //strong[contains(text(),'Quick, safe and convenient')]]
+2020-04-19 15:04:40 INFO  LoginPage :36 - Displaying Login Page Text : [[ChromeDriver: chrome on WINDOWS (8178d5c794d6643a5892bea8fea2d248)] -> xpath: //strong[contains(text(),'Quick, safe and convenient')]]
+2020-04-19 15:04:973 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 15:04:330 INFO  HomePage :64 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-19 15:04:923 INFO  LoginPage :43 - Clicking on Register Link : Proxy element for: DefaultElementLocator 'By.linkText: Register now'
+2020-04-19 15:04:32 INFO  RegisterPage :27 - Displaying Register Page Text : [[ChromeDriver: chrome on WINDOWS (8bd168b16e4b937d4f2e06ef770524ee)] -> xpath: //h2[@class='h2 jumbo-title']]
+2020-04-19 15:04:63 INFO  RegisterPage :33 - Displaying Register Page Text : [[ChromeDriver: chrome on WINDOWS (8bd168b16e4b937d4f2e06ef770524ee)] -> xpath: //h2[@class='h2 jumbo-title']]
+2020-04-19 15:04:946 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 15:04:500 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 15:04:129 INFO  HomePage :36 - Displaying Login Link : [[ChromeDriver: chrome on WINDOWS (d3f0da277a79fd7d3a1773912639ed73)] -> link text: Log In]
+2020-04-19 15:04:179 INFO  HomePage :42 - Displaying Login Link : [[ChromeDriver: chrome on WINDOWS (d3f0da277a79fd7d3a1773912639ed73)] -> link text: Log In]
+2020-04-19 15:04:850 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 15:04:352 INFO  HomePage :50 - Displaying Register link : [[ChromeDriver: chrome on WINDOWS (26cf1e6880c85d7ee1ef4c5578ee505a)] -> link text: Register]
+2020-04-19 15:04:427 INFO  HomePage :56 - Displaying Register link : [[ChromeDriver: chrome on WINDOWS (26cf1e6880c85d7ee1ef4c5578ee505a)] -> link text: Register]
+2020-04-19 15:04:94 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 15:04:866 INFO  HomePage :64 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-19 15:04:942 INFO  LoginPage :31 - Displaying Login Page Text : [[ChromeDriver: chrome on WINDOWS (140d3292bdd5a59e80a9cb79b01cffab)] -> xpath: //strong[contains(text(),'Quick, safe and convenient')]]
+2020-04-19 15:04:985 INFO  LoginPage :36 - Displaying Login Page Text : [[ChromeDriver: chrome on WINDOWS (140d3292bdd5a59e80a9cb79b01cffab)] -> xpath: //strong[contains(text(),'Quick, safe and convenient')]]
+2020-04-19 15:04:107 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 15:04:826 INFO  HomePage :64 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-19 15:04:256 INFO  LoginPage :43 - Clicking on Register Link : Proxy element for: DefaultElementLocator 'By.linkText: Register now'
+2020-04-19 15:04:334 INFO  RegisterPage :27 - Displaying Register Page Text : [[ChromeDriver: chrome on WINDOWS (56cf88ba0f3699c8a5820a5edf55da0d)] -> xpath: //h2[@class='h2 jumbo-title']]
+2020-04-19 15:04:366 INFO  RegisterPage :33 - Displaying Register Page Text : [[ChromeDriver: chrome on WINDOWS (56cf88ba0f3699c8a5820a5edf55da0d)] -> xpath: //h2[@class='h2 jumbo-title']]
+2020-04-19 15:04:559 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 15:04:420 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 16:04:139 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 16:04:731 INFO  HomePage :55 - Displaying Register link : [[ChromeDriver: chrome on WINDOWS (88a4cd2d8ddce45f7b5e31dd1545a8f7)] -> link text: Register]
+2020-04-19 16:04:779 INFO  HomePage :61 - Displaying Register link : [[ChromeDriver: chrome on WINDOWS (88a4cd2d8ddce45f7b5e31dd1545a8f7)] -> link text: Register]
+2020-04-19 16:04:637 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 16:04:173 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 16:04:932 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 16:04:535 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 16:04:63 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 16:04:95 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 16:04:30 INFO  HomePage :77 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-19 16:04:113 INFO  RegisterPage :27 - Displaying Register Page Text : [[ChromeDriver: chrome on WINDOWS (a49235a79f583dee146a79824da38c1c)] -> xpath: //h2[@class='h2 jumbo-title']]
+2020-04-19 16:04:146 INFO  RegisterPage :33 - Displaying Register Page Text : [[ChromeDriver: chrome on WINDOWS (a49235a79f583dee146a79824da38c1c)] -> xpath: //h2[@class='h2 jumbo-title']]

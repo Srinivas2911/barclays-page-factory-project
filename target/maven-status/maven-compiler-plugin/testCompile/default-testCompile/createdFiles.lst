@@ -1,0 +1,6 @@
+co\uk\barclays\listeners\Listeners.class
+co\uk\barclays\testsuite\HomePageTest.class
+co\uk\barclays\testbase\TestBase.class
+co\uk\barclays\testsuite\RegistrationPageTest.class
+co\uk\barclays\testsuite\LoginPageTest.class
+co\uk\barclays\AppTest.class
